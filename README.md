@@ -4,16 +4,6 @@
 ## Project Description
 Horiseon page features a large hero banner followed by three main sections and a sidebar.  The page is bookended with a navigational header and a footer.  Semantic HTML and image alt attributes employed to increase Search Engine Optimization.
 
-## Contents
-1. [Deployed Page](#deployed-page)
-2. [Refactor Comments](#refactor-comments)
-3. [Contributions](#contributions)
-
-## Deployed Page
-
-
-
-[Deployed GitPage](https://deckiedevs.github.io/horiseon/)
 
 ## Refactor Comments
 * Added comments to index.html and style.css to facilitate refactoring.
