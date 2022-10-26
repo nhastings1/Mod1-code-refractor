@@ -11,7 +11,7 @@ Horiseon page features a large hero banner followed by three main sections and a
 
 ## Deployed Page
 
-![Deployed Page Screenshot](./assets/images/deployed-screenshot.png)
+
 
 [Deployed GitPage](https://deckiedevs.github.io/horiseon/)
 
